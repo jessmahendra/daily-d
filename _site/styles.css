@@ -266,7 +266,6 @@ article p {
 }
 
 
-
 @media screen and (min-width: 50rem) {
     .form {
         padding: 5rem 7rem;
@@ -302,20 +301,19 @@ article p {
 
 form {
     display: flex;
-    align-items: stretch;
+    align-items: stretch
 }
 
 .form * {
     width: 100%;
-}
-
-.form1 {
+  }
+  
+  .form1 {
     display: flex;
-    align-items: stretch
-}
+    align-items: stretch;
+  }
 
-
-form .button {
+form button {
     float: right;
     width: 20%;
     padding: 10px;
