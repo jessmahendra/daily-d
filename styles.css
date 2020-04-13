@@ -304,11 +304,11 @@ form {
     align-items: stretch
 }
 
-.form * {
+.form div, .form form {
     width: 100%;
   }
   
-  .form1 {
+.form1 {
     display: flex;
     align-items: stretch;
   }
