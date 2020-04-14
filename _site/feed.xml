@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-14T19:10:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DD-Jekyll Website</title><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-04-10T15:37:11+01:00</published><updated>2020-04-10T15:37:11+01:00</updated><id>http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-14T19:08:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DD-Jekyll Website</title><entry><title type="html">today</title><link href="http://localhost:4000/food/2020/04/14/bake-a-cake.html" rel="alternate" type="text/html" title="today" /><published>2020-04-14T15:37:11+01:00</published><updated>2020-04-14T15:37:11+01:00</updated><id>http://localhost:4000/food/2020/04/14/bake-a-cake</id><content type="html" xml:base="http://localhost:4000/food/2020/04/14/bake-a-cake.html">&lt;p&gt;when in doubt…bake a cake.
+(Not in excess, because we don’t like it when people stockpile and buy too much stuff).&lt;/p&gt;
+
+&lt;p&gt;Let’s bake a carrot cake! And let’s also make this very clear - I did not come up with the recipe myself. I am, at best, a mediocre baker. If you’re like me (i.e. bored, wanting to find things to do and experiment a little bit because you’re bored), then this might be fun! The original recipe can be found &lt;a href=&quot;https://www.easypeasyfoodie.com/super-simple-carrot-cake/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are the things you need:&lt;/p&gt;
+
+&lt;p&gt;Cake:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;350g self-raising flour&lt;/li&gt;
+  &lt;li&gt;325g dark soft brown sugar&lt;/li&gt;
+  &lt;li&gt;1 tsp cinnamon&lt;/li&gt;
+  &lt;li&gt;250g carrots&lt;/li&gt;
+  &lt;li&gt;75g walnuts&lt;/li&gt;
+  &lt;li&gt;4 medium eggs&lt;/li&gt;
+  &lt;li&gt;200ml olive oil&lt;/li&gt;
+  &lt;li&gt;4 tbs milk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Frosting:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180g full fat cream cheese&lt;/li&gt;
+  &lt;li&gt;30g icing sugar&lt;/li&gt;
+  &lt;li&gt;25g walnuts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s what you need to do:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven to 160C. Grease and line the bottom and sides of a 22cm round cake tin with a double layer of greaseproof paper.&lt;/li&gt;
+  &lt;li&gt;Mix together the flour, sugar, cinnamon, roughly chopped walnuts and grated carrots in a large bowl.&lt;/li&gt;
+  &lt;li&gt;Beat together the eggs, olive oil and milk in a large jug.&lt;/li&gt;
+  &lt;li&gt;Pour the wet ingredients into the dry ingredients slowly, stirring to make sure all the flour is incorporated.&lt;/li&gt;
+  &lt;li&gt;Tip the cake mixture into the lined cake tin and cook for 1h15, or until a skewer (or a fork) comes out clean.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+For the (optional) frosting, simply:&lt;/p&gt;
+
+&lt;p&gt;Mix the cream cheese and icing sugar together and spread it on the top of the cake. Sprinkle the finely chopped walnuts on the top.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;!--
+You can use HTML elements in Markdown, such as the comment element, and they won't
+be affected by a markdown parser. However, if you create an HTML element in your
+markdown file, you cannot use markdown syntax within that element's contents.
+--&gt;</content><author><name>Jess</name></author><summary type="html">when in doubt…bake a cake. (Not in excess, because we don’t like it when people stockpile and buy too much stuff).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/BakeaCake.gif" /><media:content medium="image" url="http://localhost:4000/BakeaCake.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-04-10T15:37:11+01:00</published><updated>2020-04-10T15:37:11+01:00</updated><id>http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/04/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
