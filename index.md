@@ -10,7 +10,6 @@ when in doubt...bake a cake.
 (Not in excess, because we don't like it when people stockpile and buy too much stuff).
 
 Let's bake a carrot cake! And let's also make this very clear - I did not come up with the recipe myself. I am, at best, a mediocre baker. If you're like me (i.e. bored, wanting to find things to do and experiment a little bit because you're bored), then this might be fun! The original recipe can be found <a href="https://www.easypeasyfoodie.com/super-simple-carrot-cake/" target="_blank">here</a>.
-.
 
 Here are the things you need:
 
@@ -39,6 +38,7 @@ Here's what you need to do:
 4. Pour the wet ingredients into the dry ingredients slowly, stirring to make sure all the flour is incorporated.
 5. Tip the cake mixture into the lined cake tin and cook for 1h15, or until a skewer (or a fork) comes out clean.
 
+<br>
 For the (optional) frosting, simply:
 
 Mix the cream cheese and icing sugar together and spread it on the top of the cake. Sprinkle the finely chopped walnuts on the top.
