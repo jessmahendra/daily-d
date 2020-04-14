@@ -42,14 +42,14 @@
       <div class="img1">
         <img
           class="double"
-          src=""
+          src="{{ site.posts.first.number }}"
           alt="Smiley face"
           height="34"
           width="47"
         />
         <img
           class="cake"
-          src=""
+          src="{{ site.posts.first.image }}"
           alt="Smiley face"
           height="383"
           width="100%"
@@ -57,11 +57,11 @@
       </div>
       <!-- Close img1 -->
       <div class="title">
-        <img src="" alt="Smiley face" height="34" width="47" />
+        <img src="{{site.posts.first.number}}" alt="Smiley face" height="34" width="47" />
 
         <div class="author">
           <p>by</p>
-          <h3></h3>
+          <h3>{{ site.posts.first.author }}</h3>
         </div>
         <!-- Close author -->
       </div>
@@ -70,41 +70,10 @@
     <!--Close top-->
 
     <article>
-      <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
-
+      {{ site.posts.first.content }}
     </article>
 
-    <ul>
-        
-          <li>
-            <a href="/food/2020/04/14/bake-a-cake.html">today</a>
-          </li>
-        
-          <li>
-            <a href="/jekyll/update/2020/04/10/welcome-to-jekyll.html">Welcome to Jekyll!</a>
-          </li>
-        
-      </ul>
-
+ 
     <div class="footer">
      
         <div class="form">
