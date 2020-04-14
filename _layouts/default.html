@@ -42,14 +42,14 @@
       <div class="img1">
         <img
           class="double"
-          src="/no1.png"
+          src="{{ page.number }}"
           alt="Smiley face"
           height="34"
           width="47"
         />
         <img
           class="cake"
-          src="/BakeaCake.gif"
+          src="{{ page.image }}"
           alt="Smiley face"
           height="383"
           width="100%"
@@ -57,11 +57,11 @@
       </div>
       <!-- Close img1 -->
       <div class="title">
-        <img src="no1.png" alt="Smiley face" height="34" width="47" />
+        <img src="{{page.number}}" alt="Smiley face" height="34" width="47" />
 
         <div class="author">
           <p>by</p>
-          <h3>Eoin</h3>
+          <h3>{{ page.author }}</h3>
         </div>
         <!-- Close author -->
       </div>
