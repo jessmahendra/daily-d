@@ -117,12 +117,12 @@ ul {
 
 
 
-article p:first-child:first-letter {
+article > p:first-child:first-letter {
     color: #343434;
     float: left;
     font-family: 'Didot';
     font-size: 150px;
-    line-height: 60px;
+    line-height: 150px;
     padding-right: 0.5rem;
     padding-left: 0;
     padding-bottom: 2rem;
@@ -204,7 +204,7 @@ article p {
         font-size: 1.125rem;
         padding-bottom: 3rem;
     }
-    article p:first-child:first-letter {
+    article > p:first-child:first-letter {
         font-size: 200px;
     }
 }
