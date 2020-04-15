@@ -1,5 +1,5 @@
 ---
-title: today
+title: Bake a Cake
 layout: default
 author: Jess
 number: /no1.png
