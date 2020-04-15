@@ -151,6 +151,11 @@ article.about {
     padding-bottom: 3rem;
 }
 
+article.archive ul {
+    list-style-type: none;
+    text-align: center;
+}
+
 article p {
     margin-bottom: 1rem;
 }
