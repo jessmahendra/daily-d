@@ -141,6 +141,11 @@ article > p:first-child:first-letter {
   text-transform: lowercase;
 }
 
+.archive {
+  font-size: 2rem;
+  line-height: 150%;
+}
+
 article.about p:first-child:first-letter {
   color: #343434;
   float: left;
