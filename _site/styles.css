@@ -372,3 +372,7 @@ form button {
   display: inline;
   margin-bottom: -0.1rem;
 }
+
+.typewriter {
+  text-align: center;
+}
