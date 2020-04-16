@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-15T17:35:50+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DD-Jekyll Website</title><entry><title type="html">Bake a Cake</title><link href="http://localhost:4000/food/2020/04/13/bake-a-cake.html" rel="alternate" type="text/html" title="Bake a Cake" /><published>2020-04-13T15:37:11+01:00</published><updated>2020-04-13T15:37:11+01:00</updated><id>http://localhost:4000/food/2020/04/13/bake-a-cake</id><content type="html" xml:base="http://localhost:4000/food/2020/04/13/bake-a-cake.html">&lt;p&gt;when in doubt…bake a cake.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-16T10:40:23+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DD-Jekyll Website</title><entry><title type="html">Do Yoga</title><link href="http://localhost:4000/exercise/2020/04/16/do-yoga.html" rel="alternate" type="text/html" title="Do Yoga" /><published>2020-04-16T09:37:11+01:00</published><updated>2020-04-16T09:37:11+01:00</updated><id>http://localhost:4000/exercise/2020/04/16/do-yoga</id><content type="html" xml:base="http://localhost:4000/exercise/2020/04/16/do-yoga.html">&lt;p&gt;Yoga has been one of the things that keeps me sane over the past couple of years. And now, it has become an even more important than ever.&lt;/p&gt;
+
+&lt;p&gt;Not being able to go out and to move can also start to feel very debilitating. Going to my yoga studio in the morning before work was something I always looked forward to - not to say it was easy to get out of bed early every morning.. but you definitely forgot about that once you were there.&lt;/p&gt;
+
+&lt;p&gt;I’m &lt;em&gt;definitely&lt;/em&gt; not the most athletic person, but yoga made me stronger. And being able to move just feels so liberating. So number two on the list is: &lt;strong&gt;do yoga&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A recent study by Delaney and colleagues (2020) showed that people who make time to exercise regularly during the lockdown get a lot more enjoyment and benefits than those who don’t.&lt;/p&gt;
+
+&lt;p&gt;There are plenty of resources out there. If you type in ‘yoga tutorial’ on YouTube, I’m sure you know that thousands of videos will pop up.&lt;/p&gt;
+
+&lt;p&gt;Here are my top 3 recommendations:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stillpointyogalondon.com&quot;&gt;&lt;strong&gt;Stillpoint Yoga London&lt;/strong&gt; &lt;/a&gt;&lt;br /&gt;
+This is my regular yoga studio, and they are now doing online classes! It’s a Mysore style yoga, but the online classes they’re doing now are all led, so even if you’re a complete beginner and don’t know anything about Ashtanga, you’re in good hands. It’s a paid class, but I really can’t rave about Scott and the community enough - my happy place :)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;hhttps://www.youtube.com/user/KinoYoga&quot;&gt;&lt;strong&gt;Kino MacGregor YouTube channel&lt;/strong&gt; &lt;/a&gt;&lt;br /&gt;
+To say that Kino is an experienced teacher and practitioner is an understatement. I’m pretty sure she’s been practicing for over 20 years, and her videos range from beginner level to advanced. Her strength building videos are definitely some of my favourites, though they always make me hate her a little while doing them :p&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/yogawithadriene&quot;&gt;&lt;strong&gt;Yoga with Adriene&lt;/strong&gt; &lt;/a&gt;&lt;br /&gt;
+A classic. This channel was probably one of the first videos I watched years ago when I first started to do yoga. She’s got lots of content, and her 30 days of yoga series are amazing. A great place to start practicing regularly.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hopefully this will inspire you to move your body :)&lt;/p&gt;
+
+&lt;!--
+You can use HTML elements in Markdown, such as the comment element, and they won't
+be affected by a markdown parser. However, if you create an HTML element in your
+markdown file, you cannot use markdown syntax within that element's contents.
+--&gt;</content><author><name>Jess</name></author><summary type="html">Yoga has been one of the things that keeps me sane over the past couple of years. And now, it has become an even more important than ever.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/do-yoga.jpg" /><media:content medium="image" url="http://localhost:4000/do-yoga.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bake a Cake</title><link href="http://localhost:4000/food/2020/04/13/bake-a-cake.html" rel="alternate" type="text/html" title="Bake a Cake" /><published>2020-04-13T15:37:11+01:00</published><updated>2020-04-13T15:37:11+01:00</updated><id>http://localhost:4000/food/2020/04/13/bake-a-cake</id><content type="html" xml:base="http://localhost:4000/food/2020/04/13/bake-a-cake.html">&lt;p&gt;when in doubt…bake a cake.
 (Not in excess, because we don’t like it when people stockpile and buy too much stuff).&lt;/p&gt;
 
 &lt;p&gt;Let’s bake a carrot cake! And let’s also make this very clear - I did not come up with the recipe myself. I am, at best, a mediocre baker. If you’re like me (i.e. bored, wanting to find things to do and experiment a little bit because you’re bored), then this might be fun! The original recipe can be found &lt;a href=&quot;https://www.easypeasyfoodie.com/super-simple-carrot-cake/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;

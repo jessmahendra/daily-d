@@ -2,9 +2,9 @@
 title: Do Yoga
 layout: default
 author: Jess
-number: /no1.png
-image: /BakeaCake.gif
-date: 2020-04-18 15:37:11 +0100
+number: /no2.png
+image: /do-yoga.jpg
+date: 2020-04-16 09:37:11 +0100
 categories: exercise
 ---
 
@@ -20,13 +20,13 @@ There are plenty of resources out there. If you type in 'yoga tutorial' on YouTu
 
 Here are my top 3 recommendations:
 
-1. **Stillpoint Yoga London**\
+1. <a href = "https://stillpointyogalondon.com">**Stillpoint Yoga London** </a>\
    This is my regular yoga studio, and they are now doing online classes! It's a Mysore style yoga, but the online classes they're doing now are all led, so even if you're a complete beginner and don't know anything about Ashtanga, you're in good hands. It's a paid class, but I really can't rave about Scott and the community enough - my happy place :)
 
-2. **Kino MacGregor YouTube channel**\
+2. <a href = "hhttps://www.youtube.com/user/KinoYoga">**Kino MacGregor YouTube channel** </a>\
    To say that Kino is an experienced teacher and practitioner is an understatement. I'm pretty sure she's been practicing for over 20 years, and her videos range from beginner level to advanced. Her strength building videos are definitely some of my favourites, though they always make me hate her a little while doing them :p
 
-3. **Yoga with Adrienne**\
+3. <a href = "https://www.youtube.com/user/yogawithadriene">**Yoga with Adriene** </a>\
    A classic. This channel was probably one of the first videos I watched years ago when I first started to do yoga. She's got lots of content, and her 30 days of yoga series are amazing. A great place to start practicing regularly.
 
 Hopefully this will inspire you to move your body :)
