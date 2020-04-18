@@ -92,8 +92,17 @@ ul {
   background-color: #f6f6f6;
 }
 
-.cake {
+.imgcontainer {
+  width: 383px;
+  height: 383px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
   outline: 1px solid white;
+  outline-offset: -1rem;
+}
+
+.cake {
   outline-offset: -1rem;
 }
 
