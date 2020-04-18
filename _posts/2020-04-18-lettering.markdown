@@ -2,7 +2,7 @@
 title: Lettering
 layout: default
 author: Jess
-number: /no2.png
+number: /no-3.png
 image: /lettering.png
 date: 2020-04-18 09:37:11 +0100
 categories: creative
