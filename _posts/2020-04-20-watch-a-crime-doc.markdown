@@ -2,17 +2,17 @@
 title: Watch a Crime Documentary
 layout: default
 author: Jess
-number: /no2.png
-image: /do-yoga.jpg
+number: /no-4.png
+image: /crime-doc.png
 date: 2020-04-20 09:37:11 +0100
 categories: entertainment
 ---
 
 this might not be the most productive thing to do during a lockdown, but this is not a productivity contest. And documentaries always feel more.. educational if that makes anyone feel any better.
 
-I have a special place in my heart for crime documentaries. One of the first crime series I got addicted to (like millions of others. Literally, millions of people loved it so much that it was the single most downloaded podcast ever made) was [Serial].  This podcast followed the story of a guy who was convicted guilty of the murder of his ex girlfriend and investigated his innocence. Then came Making a Murderer. This was such a compelling story that I just could not stop watching it. I think I finished it in two days.
+I have a special place in my heart for crime documentaries. One of the first crime series I got addicted to (like millions of others. Literally, millions of people loved it so much that it was the single most downloaded podcast ever made) was [Serial]. This podcast followed the story of a guy who was convicted guilty of the murder of his ex girlfriend and investigated his innocence. Then came Making a Murderer. This was such a compelling story that I just could not stop watching it. I think I finished it in two days.
 
-And now Netflix is killing it with all their original crime documentary series. The most recent one I watched is Tiger King and... I loved it (maybe for all the wrong reasons). With seven episodes and new characters introduced in almost every episode, this series just keeps you wondering what's going to happen next, and also asking yourself "did this actually happen? Why is this *so* weird?".
+And now Netflix is killing it with all their original crime documentary series. The most recent one I watched is Tiger King and... I loved it (maybe for all the wrong reasons). With seven episodes and new characters introduced in almost every episode, this series just keeps you wondering what's going to happen next, and also asking yourself "did this actually happen? Why is this _so_ weird?".
 
 Now that we're in lockdown (and it seems like all I have is time), I asked Phoebe to give me some recommendations of things to watch, and she put together **this amazing list of must-watch crime documentaries**.
 

@@ -100,10 +100,14 @@ ul {
   align-items: center;
   outline: 1px solid white;
   outline-offset: -1rem;
+  background-size: cover;
+  background-position: center;
 }
 
 .cake {
   outline-offset: -1rem;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .double {
