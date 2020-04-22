@@ -4,7 +4,7 @@ layout: default
 author: Jess
 number: /no-6.png
 image: /handstand.png
-date: 2020-04-25 09:37:11 +0100
+date: 2020-04-24 09:37:11 +0100
 categories: fitness
 ---
 
@@ -19,6 +19,7 @@ Now that everything feels so uncertain and we don't really know what is going to
 Practicing Ashtanga yoga has helped a lot in terms of building an upper body strength, but supplementing it with other forms of exercise will accelerate your progress for sure. I've been working on arms and shoulders more, and have definitely felt a difference. Core is key too though, something which I haven't really paid that much attention to.
 
 Some videos you might find useful:
+
 - [Kino MacGregor's Shoulders and arms workout](https://www.youtube.com/watch?v=V5fiBESK_7U&list=WL&index=25&t=1629s)
 - [School of Calisthenics' learn to handstand](https://www.youtube.com/watch?v=Q587Mq8VbrM)
 - [Kino MacGregor's L sit core strength workout](https://www.youtube.com/watch?v=5Pgfexjfb20&list=WL&index=24&t=1047s)
@@ -26,5 +27,3 @@ Some videos you might find useful:
 - [Yoga with Briohny's handstand basics](https://www.youtube.com/watch?v=zErb6KNN6HU)
 
 Good luck!
-
-
