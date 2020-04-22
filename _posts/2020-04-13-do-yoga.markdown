@@ -5,7 +5,7 @@ author: Jess
 number: /no2.png
 image: /do-yoga.jpg
 date: 2020-04-16 09:37:11 +0100
-categories: exercise
+categories: fitness
 ---
 
 Yoga has been one of the things that keeps me sane over the past couple of years. And now, it has become an even more important than ever.
