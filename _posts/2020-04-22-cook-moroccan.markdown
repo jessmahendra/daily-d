@@ -14,7 +14,7 @@ One of the hidden benefits of this new slower life, that has been thrust upon us
 
 While this might not be a strictly authentic Moroccan Tagine, it’s the flavour that counts and this dish certainly has that in abundance. Plus, who has a Tagine pot lying around?
 
-<img class="tagine" src="tagine.jpg"
+<img class="tagine" src="/tagine.jpg"
           alt="Smiley face"
           height="auto"
           width="100%">

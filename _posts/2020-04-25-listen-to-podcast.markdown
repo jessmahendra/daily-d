@@ -3,8 +3,8 @@ title: Listen to Podcast
 layout: default
 author: Jess
 number: /no-7.png
-image: /do-yoga.jpg
-date: 2020-04-24 09:37:11 +0100
+image: /podcast.png
+date: 2020-04-25 09:00:00 +0100
 categories: entertainment
 ---
 
@@ -17,6 +17,7 @@ The absence of work commute and travel as a result of the lockdown has kind of r
 I love finding out new interesting podcasts, so thought you might enjoy a list of interesting podcasts too.
 
 For an interview/conversation-style podcast:
+
 - Tim Ferriss ❤️
 - The Joe Rogan Experience ❤️
 - On Being
@@ -25,13 +26,16 @@ For an interview/conversation-style podcast:
 - Making Sense with Sam Harris ❤️
 - Design Matters ❤️
 - Deliciously Ella
+- Big Questions with Cal Fussman
 
 For a documentary-style podcast:
+
 - Serial (crime)
 - Start-Up (business)
 - Heavyweight (documented journeys of people trying to reconnect) ❤️
 
 For a journalistic-type podcast:
+
 - Radiolab ❤️
 - 99% Invisible
 - Reply All ❤️
@@ -39,15 +43,18 @@ For a journalistic-type podcast:
 - Invisibilia
 
 For a story-type podcast:
+
 - This American Life
+- Death, Sex, and Money
 - Snap Judgment
 - The Truth (fiction stories)
 - Dan Carlin's Hardcore History (this is a history podcast, brilliantly told in the most engaging narrative).
 
 And for all the Behavioural Science nerds out there, I've got extra stuff for you:
+
 - Freakonomics ❤️
 - Choiceology
 - The Brainy Business with Melina Palmer
 - Hidden Brain ❤️
 
-Hope the lists
+Hopefully there's something for everyone in that list. It's quite a long one, so it should keep you busy for a while. And when you're out of things to do again.. come back for Daily Diversion #8 for another idea #shamelessplug 😉
