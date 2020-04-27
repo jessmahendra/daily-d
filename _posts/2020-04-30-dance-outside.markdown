@@ -4,7 +4,7 @@ layout: default
 author: Jess
 number: /no-9.png
 image: /dance.png
-date: 2020-04-29 09:37:11 +0100
+date: 2020-04-30 09:37:11 +0100
 categories: fitness
 ---
 
@@ -14,4 +14,6 @@ If I think about the lockdown too much, my head starts to hurt and freak out abo
 
 I can't say that I enjoyed every single second of that run, but I do have to admit that the post-run feeling was great. I was pretty proud of myself for having completed the first task of the Couch to 5K programme, and maybe it was a combination of that and the warm weather, and [the song I was listening to](https://open.spotify.com/track/47w6S27JF4Zvrz1Wd6R66Z?si=LBy15BVbTh-yQ4fhkYTI5g), but I kind of felt this weird need to just start dancing around in the middle of nowhere (where nobody could see me, because I still have a sense of pride).
 
-So I did. Then I realised how much I'd missed dancing.          
+So I did. Then I realised how much I'd missed dancing. I used to dance quite a bit when I was younger. It was fun. And then I'm not sure what happened - I guess life took over. But the need to move never left. I think this is why I'm so drawn to yoga - moving your body fluidly sends you into a trance. No thoughts, just movement. It feels so liberating, especially at a time where we're constantly reminded of the confusing state of the world, which can cause a lot of anxiety. I think what made it more fun, though, is doing it outside. All the space and the sunshine, having an entire road all to yourself, it feels so good. It feels like complete freedom amidst all the restrictions.
+
+Dancing outside might be a bit of a stretch to a lot of you, but maybe just put on some good music, and dance your heart out in your bedroom. See how that makes you feel 😊
