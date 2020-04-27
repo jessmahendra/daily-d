@@ -3,7 +3,7 @@ title: Write a Journal
 layout: default
 author: Jess
 number: /no-8.png
-image: /do-yoga.jpg
+image: /write-a-journal.png
 date: 2020-04-28 09:00:00 +0100
 categories: life
 ---
