@@ -1,5 +1,5 @@
 ---
-title: Dance... outside
+title: Dance
 layout: default
 author: Jess
 number: /no-9.png
