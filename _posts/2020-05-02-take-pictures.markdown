@@ -3,8 +3,8 @@ title: Take Pictures
 layout: default
 author: Jess
 number: /no-10.png
-image: /handstand.png
-date: 2020-05-01 09:37:11 +0100
+image: /take-pictures.png
+date: 2020-05-02 09:37:11 +0100
 categories: life
 ---
 
