@@ -3,8 +3,8 @@ title: Learn to Code
 layout: default
 author: Jess
 number: /no-11.png
-image: /handstand.png
-date: 2020-05-03 09:37:11 +0100
+image: /learn-to-code.png
+date: 2020-05-06 09:37:11 +0100
 categories: education
 ---
 

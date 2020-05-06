@@ -1,0 +1,11 @@
+---
+title: Play a Board Game
+layout: default
+author: Jess
+number: /no-13.png
+image: /handstand.png
+date: 2020-05-05 09:00:00 +0100
+categories: entertainment
+---
+
+board games are so underrated. Not when you're a kid, I suppose. I have so many fond memories of playing Checkers, Monopoly, and Scrabble as a kid. An important side note here though, is that 
