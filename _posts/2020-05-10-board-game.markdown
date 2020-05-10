@@ -8,7 +8,7 @@ date: 2020-05-10 09:00:00 +0100
 categories: entertainment
 ---
 
-board games are so underrated. Not when you're a kid, I suppose. I have so many fond memories of playing Checkers, Monopoly, and Scrabble as a kid. An important side note here though, is that smartphones weren't really a thing when I was growing up, so distractions like Instagram, YouTube, and TikTok didn't exist (not that I'm on TikTok now, I'm not *that* cool).
+board games are so underrated. Not when you're a kid, I suppose. I have so many fond memories of playing Checkers, Monopoly, and Scrabble as a kid. An important side note here though, is that smartphones weren't really a thing when I was growing up, so distractions like Instagram, YouTube, and TikTok didn't exist (not that I'm on TikTok now, I'm not _that_ cool).
 
 One nice thing about the lockdown is that as we all rack our brains to find new ways to keep ourselves entertained, lots of things that seem to be a distant memory are now resurfacing. (Also, who else is finding themselves experimenting a bit more in the kitchen? I made a lentil curry the other night and I must say, I was very proud of the result).
 
