@@ -3,7 +3,7 @@ title: Play a Board Game
 layout: default
 author: Jess
 number: /no-13.png
-image: /handstand.png
+image: /board-game.jpg
 date: 2020-05-10 09:00:00 +0100
 categories: entertainment
 ---
