@@ -19,26 +19,26 @@ I based it on this [recipe](https://www.olivemagazine.com/recipes/vegetarian/spi
 Here's what you need:
 
 Curry:
-red lentils 100g
-onions 2, roughly chopped
-chopped tomatoes 400g tin
-ground turmeric 1 tsp
-oil 2 tbsp, for frying
-ground cumin 1 ½ tsp
-ground coriander 1 ½ tsp
-cardamom pods 4, squashed
-root ginger a thumb-sized piece, finely chopped
-garlic 4 cloves, crushed
-green chillies 2-3, sliced
-baby spinach 100g, chopped
-garam masala 1 tsp
-coriander a small bunch, chopped
-steamed basmati rice or chapatis to serve
+- red lentils 100g
+- onions 2, roughly chopped
+- chopped tomatoes 400g tin
+- ground turmeric 1 tsp
+- oil 2 tbsp, for frying
+- ground cumin 1 ½ tsp
+- ground coriander 1 ½ tsp
+- cardamom pods 4, squashed
+- root ginger a thumb-sized piece, finely chopped
+- garlic 4 cloves, crushed
+- green chillies 2-3, sliced
+- baby spinach 100g, chopped
+- garam masala 1 tsp
+- coriander a small bunch, chopped
+- steamed basmati rice or chapatis to serve
 
 For the crispy eggs you'll need:
-eggs 6
-ground turmeric ¼ tsp
-paprika ¼ tsp
+- eggs 6
+- ground turmeric ¼ tsp
+- paprika ¼ tsp
 
 Here's how to do it:
 
