@@ -3,8 +3,8 @@ title: Make a Lentil Curry
 layout: default
 author: Jess
 number: /no-14.png
-image: /handstand.png
-date: 2020-05-12 09:00:00 +0100
+image: /lentil-curry.png
+date: 2020-05-15 09:00:00 +0100
 categories: food
 ---
 
@@ -41,13 +41,14 @@ ground turmeric ¼ tsp
 paprika ¼ tsp
 
 Here's how to do it:
+
 1. Put the lentils, onions and tomatoes in a pan with the turmeric and 1 tsp salt. Add water to just cover, then simmer gently for 20 minutes until the lentils are tender
 2. Drop the eggs into boiling water, cook for 7 minutes then plunge into iced water and leave until cooled.
 3. Heat half the oil in a pan then stir in the cumin, coriander and cardamom. Cook for 2 minutes then stir in the ginger, garlic and chillies. Cook for a few minutes then add the lentil mixture and 100ml water. Cover and simmer for 30 minutes. Add the spinach and cook for another 10 minutes.
 4. Peel the eggs and heat the remaining oil in a frying pan. Add the eggs, turmeric and paprika, then season with salt and cook until the skin starts to blister and crisp up.
 5. Stir the garam masala and coriander into the curry and serve with the halved eggs and rice or chapatis.
 
-We didn't have coriander unfortunately, but I think it would have tasted spectacular with coriander. 
+We didn't have coriander unfortunately, but I think it would have tasted spectacular with coriander.
 
 So if you're looking for an easy recipe, have a go at this and let me know how it goes!
 
