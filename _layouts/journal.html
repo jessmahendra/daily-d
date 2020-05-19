@@ -31,9 +31,9 @@
         <div class = "box">
         <ul class = "nav">
             <li> <a href="/index.html">today</a></li>
-            <li> <a href="/journal.html">journal</a></li>
+            <li><a class = "active" href="/journal.html">journal</a></li>
             <li> <a href="/about.html">about</a></li>
-            <li> <a class = "active" href="/archive.html">archive</a></li>
+            <li> <a href="/archive.html">archive</a></li>
         </ul>
         <div class = "lines">
             <h1 class ="horizontal"></h1>
@@ -46,112 +46,14 @@
 
 <article class = "archive">
   <ul>
-    
+    {% for post in site.categories.journal %}
       <li class = "archive-img">
-        <a href="/journal/2020/05/19/jess-journal-1.html"> Jess - Journal 1
-          <!-- <img src = /jess-journal-1.png/> -->
+        <a href="{{ post.url }}"> {{ post.title }}
+          <!-- <img src = {{ post.image }}/> -->
         </a>
         
       </li>
-    
-      <li class = "archive-img">
-        <a href="/food/2020/05/15/lentil-curry.html"> Make a Lentil Curry
-          <!-- <img src = /lentil-curry.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/entertainment/2020/05/10/board-game.html"> Play a Board Game
-          <!-- <img src = /board-game.jpg/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/creative/2020/05/08/paint.html"> Paint
-          <!-- <img src = /paint.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/education/2020/05/06/learn-to-code.html"> Learn to Code
-          <!-- <img src = /learn-to-code.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/life/2020/05/02/take-pictures.html"> Take Pictures
-          <!-- <img src = /take-pictures.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/fitness/2020/04/30/dance.html"> Dance
-          <!-- <img src = /dance.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/life/2020/04/28/write-a-journal.html"> Write a Journal
-          <!-- <img src = /write-a-journal.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/entertainment/2020/04/26/listen-to-podcast.html"> Listen to Podcast
-          <!-- <img src = /podcast.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/fitness/2020/04/24/learn-to-handstand.html"> Learn to Handstand
-          <!-- <img src = /handstand.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/food/2020/04/21/cook-moroccan.html"> Cook Moroccan
-          <!-- <img src = /cook-moroccan.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/entertainment/2020/04/20/watch-a-crime-doc.html"> Watch a Crime Documentary
-          <!-- <img src = /crime-doc.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/creative/2020/04/18/lettering.html"> Lettering
-          <!-- <img src = /lettering.png/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/fitness/2020/04/16/do-yoga.html"> Do Yoga
-          <!-- <img src = /do-yoga.jpg/> -->
-        </a>
-        
-      </li>
-    
-      <li class = "archive-img">
-        <a href="/food/2020/04/13/bake-a-cake.html"> Bake a Cake
-          <!-- <img src = /BakeaCake.gif/> -->
-        </a>
-        
-      </li>
-    
+    {% endfor %}
   </ul></article>
 
         <div class="footer">
