@@ -3,7 +3,7 @@ title: Go for a looooong walk
 layout: default
 author: Jess
 number: /no-15.png
-image: /handstand.png
+image: /walk.png
 date: 2020-05-20 09:00:00 +0100
 categories: life
 ---
