@@ -1,5 +1,5 @@
 ---
-title: Jess - Journal 1
+title: Jess - episode 1
 layout: default
 author: Jess
 number: /no1.png
