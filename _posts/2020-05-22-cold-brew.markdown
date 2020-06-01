@@ -4,7 +4,7 @@ layout: default
 author: Jess
 number: /no-16.png
 image: /cold-brew.png
-date: 2020-05-28 09:00:00 +0100
+date: 2020-06-01 09:00:00 +0100
 categories: food
 ---
 
@@ -20,7 +20,7 @@ Ready?
 
 Go to your kitchen now and mix 2/3 cup of coffee beans, which makes about 3/4 cup of coarsely-ground coffee, with about 6 cups of water, or about the size of a big mason jar. Give it a bit of a shake, and put it in the fridge. Leave it overnight, or longer for a stronger flavour, and voila! You've made yourself a nice cold brew.
 
-Oh also 
+Important note: before you serve it, make sure to plunge it in a cafetiere first.
 
 Honestly, it tastes so delicious and makes you think why would I pay £5 a cup for this if I can make it at home (because you're lazy maybe Jess, and can't always be bothered).
 
