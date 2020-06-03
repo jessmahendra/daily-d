@@ -2,7 +2,7 @@
 title: DIY Coconut Sorbet
 layout: default
 author: Eoin
-number: /no-16.png
+number: /no-17.png
 image: /sorbet.png
 date: 2020-06-02 09:00:00 +0100
 categories: food
@@ -14,14 +14,16 @@ One of the best things about it is that it’s the perfect pantry recipe, contai
 
 Here’s what you’ll need:
 
-2 cans of coconut milk 
-400ml of honey 
-Limes 
-Sea Salt
+- 2 cans of coconut milk 
+- 400ml of honey 
+- Limes 
+- Sea Salt
 
 How to make:
 
-Using a blender or food processor, give the coconut milk and honey a quick whiz. Mix in sea salt and the juice of one lime. Pour into a plastic tub and put in the freezer. Every hour or so take a fork and give the sorbet a good mix, scraping through any ice crystals that form. It’s best to do this over the course of 3-4 hours and then leave overnight until solid. 
+1. Using a blender or food processor, give the coconut milk and honey a quick whiz.
+2. Mix in sea salt and the juice of one lime. Pour into a plastic tub and put in the freezer. 
+3. Every hour or so take a fork and give the sorbet a good mix, scraping through any ice crystals that form. It’s best to do this over the course of 3-4 hours and then leave overnight until solid. 
 
 Garnish as much lime zest and sea salt as you like.  
 
