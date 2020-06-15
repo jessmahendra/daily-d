@@ -2,7 +2,7 @@
 title: Eoin - episode 3
 layout: default
 author: Eoin
-number: /no-3.png
+number: /no-4.png
 image: /eoin-journal.png
 date: 2020-06-15 09:00:00 +0100
 categories: journal
