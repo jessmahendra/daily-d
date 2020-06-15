@@ -2,8 +2,8 @@
 title: Eoin - episode 3
 layout: default
 author: Eoin
-number: /no3.png
-image: /eoin-lockdown.png
+number: /no-3.png
+image: /eoin-journal.png
 date: 2020-06-15 09:00:00 +0100
 categories: journal
 ---
