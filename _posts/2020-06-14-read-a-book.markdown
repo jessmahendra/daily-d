@@ -2,13 +2,13 @@
 title: Read a Book
 layout: default
 author: Jess
-number: /no-21.png
-image: /cold-brew.png
+number: /no-19.png
+image: /read-a-book.png
 date: 2020-06-19 09:00:00 +0100
 categories: life
 ---
 
-when i was brainstorming on what new Daily Diversion idea I could write about, I was slightly surprised that I hadn't thought of this. Of course. Read a book!
+when i was brainstorming on what new Daily Diversions idea I could write about, I was slightly surprised that I hadn't thought of this. Of course. Read a book!
 
 At the beginning of lockdown when we were all scrambling for ideas on what to do, read more books (or read *a* book), was one of the things that made it on the post-its. Just before lockdown, things were getting really busy at work and finishing the book I was reading at the time became a bit of a struggle. Dinner time was slowly merging with Netflix time.. and the 'read-before-bed' ritual slowly phased out and was replaced by - you guessed it - my relentless Netflix habit. More screen time. Lower quality of sleep. Not good.
 
