@@ -38,4 +38,4 @@ Well, I bet this isn’t the lockdown journal you expected, BUT! Honestly i feel
 Additional comments?
 I hope everyone’s well! as we’re transitioning into a new chapter/new season (i hate the term new normal lol…) I hope that everyone will also reflect the lessons they’ve learned and hopefully in the grand scheme of things, this lockdown will get the human race back to being human KIND ♡ Because we really are all in this together and life just does not seem to be worth living without human relationships! 
 
-Lots of love, Kizzy! Also please do check out @lovemeloveyou.id on Instagram for daily inspiration and motivation posts hehe.. #shamelessplug <3
+Lots of love, Kizzy! Also please do check out [@lovemeloveyou.id](https://www.instagram.com/lovemeloveyou.id/) on Instagram for daily inspiration and motivation posts hehe.. #shamelessplug <3
