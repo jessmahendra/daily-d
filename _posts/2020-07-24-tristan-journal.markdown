@@ -4,7 +4,7 @@ layout: default
 author: Tristan
 number: /no-6.png
 image: /tristan-journal.png
-date: 2020-06-24 09:00:00 +0100
+date: 2020-07-24 09:00:00 +0100
 categories: journal
 ---
 
