@@ -10,7 +10,7 @@ categories: journal
 
 **what did you do today?**
 <br>
-I worked from home (nothing exciting there) and then I spent a few hours at the basketball courts, doing some drills and taking a bunch of shots. 
+I worked from home (nothing exciting there) and then I spent a few hours at the basketball courts, doing some drills and taking a bunch of shots.
 
 **Did you think about something or someone you hadn't in a while?**
 <br>
